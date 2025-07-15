@@ -23,4 +23,6 @@ Open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
 ### Sample Student Logins:
 - ID: S001, Password: pass001
+
+- http://127.0.0.1:5000/
 - ID: S002, Password: pass002
